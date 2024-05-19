@@ -1,2 +1,2 @@
-# ayeshuttale-Capstone-Project
+# Capstone Project
 indian crime project
